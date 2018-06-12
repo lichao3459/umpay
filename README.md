@@ -1,2 +1,0 @@
-# umpay
-plist
